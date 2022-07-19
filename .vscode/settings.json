@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "regex": "cpp",
+        "string": "cpp",
+        "*.tcc": "cpp"
+    }
+}

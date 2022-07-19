@@ -1,0 +1,4 @@
+/sda1/cppProjects/xmlParser/build/CMakeFiles/rebuild_cache.dir
+/sda1/cppProjects/xmlParser/build/CMakeFiles/edit_cache.dir
+/sda1/cppProjects/xmlParser/build/CMakeFiles/xmlParser_test.dir
+/sda1/cppProjects/xmlParser/build/CMakeFiles/xml_parser.dir
