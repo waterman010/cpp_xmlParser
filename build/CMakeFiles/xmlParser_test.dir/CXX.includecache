@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/shared/dtdParser.hpp
+string
+-
+regex
+-
+boost/property_tree/ptree.hpp
+../include/shared/boost/property_tree/ptree.hpp
+
+../include/shared/xmlParser.h
+
+/sda1/cppProjects/xmlParser/src/main.cpp
+shared/xmlParser.h
+/sda1/cppProjects/xmlParser/src/shared/xmlParser.h
+shared/dtdParser.hpp
+/sda1/cppProjects/xmlParser/src/shared/dtdParser.hpp
+

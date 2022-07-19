@@ -2,6 +2,7 @@
     "files.associations": {
         "regex": "cpp",
         "string": "cpp",
-        "*.tcc": "cpp"
+        "*.tcc": "cpp",
+        "istream": "cpp"
     }
 }

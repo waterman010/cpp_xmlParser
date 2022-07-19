@@ -19,7 +19,7 @@
 					]
 				}
 			],
-			"name" : "Debug",
+			"name" : "",
 			"projects" : 
 			[
 				{
@@ -40,14 +40,14 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "xmlParser_test::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-xmlParser_test-Debug-66e49c42706e9d6fba19.json",
+					"jsonFile" : "target-xmlParser_test-e92bd2a68e28a9b52630.json",
 					"name" : "xmlParser_test",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "xml_parser::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-xml_parser-Debug-1e5656ff172310c8df89.json",
+					"jsonFile" : "target-xml_parser-8c0d1fdeda12564257e5.json",
 					"name" : "xml_parser",
 					"projectIndex" : 0
 				}

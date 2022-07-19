@@ -11,6 +11,7 @@ target_include_directories( xml_parser
         ${PROJECT_SOURCE_DIR}/include
 )
 
+include_directories("${PROJECT_SOURCE_DIR}/include")
 add_executable( xmlParser_test
     src/main.cpp
 )

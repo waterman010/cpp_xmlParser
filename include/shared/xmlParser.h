@@ -1,3 +1,5 @@
+#pragma once
+
 #ifndef __XML_PARSER_H__
 #define __XML_PARSER_H__
 
@@ -11,7 +13,7 @@ namespace xmlPsr
         xmlParser(/* args */);
         ~xmlParser();
 
-        void parse(char *);
+        void parse(const char *);
         bool getElemByregex(char* strIn,char* regStr);
     };
 }

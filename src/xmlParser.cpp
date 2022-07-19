@@ -1,8 +1,8 @@
-#pragma once
 
 #include <iostream>
 #include <regex>
 #include <string>
+#include "boost/property_tree/ptree.hpp"
 
 #include "shared/xmlParser.h"
 
@@ -18,7 +18,7 @@ namespace xmlPsr
     {
     }
 
-    void xmlParser::parse(char *p)
+    void xmlParser::parse(const char *p)
     {
         cout << "xmlParser out:" << p << endl;
     }

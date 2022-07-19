@@ -1,1 +1,1 @@
-/usr/bin/x86_64-linux-gnu-g++-9 -fPIC -g  -shared -Wl,-soname,libxml_parser.so -o libxml_parser.so CMakeFiles/xml_parser.dir/src/xmlParser.cpp.o 
+/usr/bin/c++ -fPIC   -shared -Wl,-soname,libxml_parser.so -o libxml_parser.so CMakeFiles/xml_parser.dir/src/xmlParser.cpp.o 

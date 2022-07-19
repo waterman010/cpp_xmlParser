@@ -60,15 +60,15 @@ include CMakeFiles/xmlParser_test.dir/flags.make
 CMakeFiles/xmlParser_test.dir/src/main.cpp.o: CMakeFiles/xmlParser_test.dir/flags.make
 CMakeFiles/xmlParser_test.dir/src/main.cpp.o: ../src/main.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/sda1/cppProjects/xmlParser/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/xmlParser_test.dir/src/main.cpp.o"
-	/usr/bin/x86_64-linux-gnu-g++-9  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/xmlParser_test.dir/src/main.cpp.o -c /sda1/cppProjects/xmlParser/src/main.cpp
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/xmlParser_test.dir/src/main.cpp.o -c /sda1/cppProjects/xmlParser/src/main.cpp
 
 CMakeFiles/xmlParser_test.dir/src/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/xmlParser_test.dir/src/main.cpp.i"
-	/usr/bin/x86_64-linux-gnu-g++-9 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /sda1/cppProjects/xmlParser/src/main.cpp > CMakeFiles/xmlParser_test.dir/src/main.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /sda1/cppProjects/xmlParser/src/main.cpp > CMakeFiles/xmlParser_test.dir/src/main.cpp.i
 
 CMakeFiles/xmlParser_test.dir/src/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/xmlParser_test.dir/src/main.cpp.s"
-	/usr/bin/x86_64-linux-gnu-g++-9 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /sda1/cppProjects/xmlParser/src/main.cpp -o CMakeFiles/xmlParser_test.dir/src/main.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /sda1/cppProjects/xmlParser/src/main.cpp -o CMakeFiles/xmlParser_test.dir/src/main.cpp.s
 
 # Object files for target xmlParser_test
 xmlParser_test_OBJECTS = \

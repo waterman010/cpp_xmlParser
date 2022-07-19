@@ -42,7 +42,7 @@
 			"compileCommandFragments" : 
 			[
 				{
-					"fragment" : "-g -fPIC  "
+					"fragment" : "-fPIC  "
 				}
 			],
 			"defines" : 
